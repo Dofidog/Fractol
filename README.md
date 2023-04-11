@@ -22,5 +22,3 @@ burningship:
 controls:
 
 <img width="594" alt="image" src="https://user-images.githubusercontent.com/58728833/210233918-4ce150a5-a224-4875-936e-912222129407.png">
-
-Note: zoom is a bit clumsy and needs optimization.
