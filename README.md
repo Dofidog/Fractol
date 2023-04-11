@@ -1,5 +1,5 @@
 # Fractol
-Program that draws fractal patterns.
+Program that calculates and draws fractal patterns.
 
 wiki showcasing fractal princibles: https://en.wikipedia.org/wiki/Fractal
 
